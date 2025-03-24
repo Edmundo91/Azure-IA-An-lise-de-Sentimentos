@@ -84,23 +84,4 @@ Após a análise das sentenças, o serviço do Azure classificou os sentimentos 
    - **Confiança**: 94%
    - **Insight**: A palavra "exausto" indica um cansaço físico ou mental, o que normalmente é interpretado como um sentimento negativo. O Azure conseguiu identificar esse sentimento com bastante confiança.
 
-### Possibilidades de Expansão
-
-- **Análise de Sentimentos em Massa**: Podemos enviar mais sentenças ou até documentos inteiros para obter análises de sentimentos.
-- **Interface Web**: Criar uma interface onde o usuário pode enviar seus próprios textos e ver os resultados.
-- **Aplicações Comerciais**: A análise de sentimentos pode ser aplicada em redes sociais, análise de feedbacks de clientes e muito mais.
-
-## Screenshots
-
-
----
-
-## Como Rodar o Projeto
-
-Para rodar esse projeto, siga as instruções no arquivo `README.md` do repositório.
-
-1. Clone este repositório em sua máquina.
-2. Siga os passos para configurar sua chave de API do Azure.
-3. Execute o código para analisar as sentenças e visualizar os resultados.
-
 
